@@ -1,5 +1,12 @@
 DOMAIN-SUFFIX,keeflys.com
-DOMAIN-SUFFIX,sdktjapi.keeflys.com
+DOMAIN-SUFFIX,sdktjapi.keeflys.com,
 DOMAIN-SUFFIX,pic.weesunday.com
+DOMAIN-SUFFIX,picys.keeflys.com
 DOMAIN-SUFFIX,mkapi.keeflys.com
 DOMAIN-SUFFIX,comsdktjapi.fanqiejiang.net
+IP-CIDR,163.181.81.222/32,no-resolve
+IP-CIDR,138.113.119.16/32,no-resolve
+IP-CIDR,14.128.0.101/32,no-resolve
+IP-CIDR,54.177.49.60/32,no-resolve
+IP-CIDR,157.185.135.109/32,no-resolve
+IP-CIDR,112.67.248.29/32,no-resolve
